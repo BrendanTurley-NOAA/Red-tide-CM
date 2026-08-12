@@ -37,6 +37,7 @@ The consolidation currently produces:
 - `/home/runner/work/Red-tide-CM/Red-tide-CM/data/consolidated/concept_presence_by_matrix.csv`
 - `/home/runner/work/Red-tide-CM/Red-tide-CM/data/consolidated/edge_support_summary.csv`
 - `/home/runner/work/Red-tide-CM/Red-tide-CM/data/consolidated/matrix_edges_long.csv`
+- `/home/runner/work/Red-tide-CM/Red-tide-CM/data/consolidated/consolidated_concept_map.png`
 
 ### `concept_presence_by_matrix.csv`
 
@@ -70,6 +71,17 @@ This file stores one row per observed edge per matrix:
 
 This is the most analysis-friendly format for downstream filtering, counting, visualization, or graph-based workflows.
 
+### `consolidated_concept_map.png`
+
+This PNG provides a single network view of the consolidated conceptual model using igraph. The rendering uses:
+
+- one node per concept
+- one directed edge per consolidated source-target relationship
+- larger node sizes for more connected concepts
+- highlighted node and edge styling for concepts or relationships that appear in more than one source matrix
+
+This supports quick visual inspection of the overall consolidated structure.
+
 ## Reasoning Behind the Approach
 
 This approach was chosen because it is simple, reproducible, and closely aligned with the structure of the existing source files.
@@ -93,3 +105,7 @@ This approach was chosen because it is simple, reproducible, and closely aligned
 To regenerate the outputs, run:
 
 `python /home/runner/work/Red-tide-CM/Red-tide-CM/scripts/consolidate_feature_matrices.py`
+
+To regenerate the network map, run:
+
+`python /home/runner/work/Red-tide-CM/Red-tide-CM/scripts/render_consolidated_concept_map.py`

@@ -5,3 +5,7 @@ Raw conceptual model matrices are stored in `/home/runner/work/Red-tide-CM/Red-t
 To regenerate the consolidated outputs under `/home/runner/work/Red-tide-CM/Red-tide-CM/data/consolidated`, run:
 
 `python /home/runner/work/Red-tide-CM/Red-tide-CM/scripts/consolidate_feature_matrices.py`
+
+To render the consolidated conceptual model map PNG under `/home/runner/work/Red-tide-CM/Red-tide-CM/data/consolidated`, run:
+
+`python /home/runner/work/Red-tide-CM/Red-tide-CM/scripts/render_consolidated_concept_map.py`
