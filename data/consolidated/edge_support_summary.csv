@@ -1,0 +1,340 @@
+source,target,matrix_count,matrices
+Abundance of Bait,Goliath Grouper,1,PineIsl
+Accuracy of recreational harvest data,Recreational quota overage,1,PanamaCity
+Adult and Juvenile Mortality,Population Size,1,Group1
+Adult and Juvenile Mortality,Predators Sharks and Lionfish1,1,Group1
+Adult and Juvenile Mortality,Predators Sharks and Lionfish2,1,Group1
+Adult Distribution,Predators Sharks and Lionfish1,1,Group1
+Adult Distribution,Predators Sharks and Lionfish2,1,Group1
+Adult Habitat,Fish Dist,1,StPete
+Adult Habitat,Growth,1,StPete
+Adult Habitat,Mating Behavior,1,StPete
+Adult Habitat,Prey Availability,1,StPete
+Age Truncation,Discard Mortality,1,Group1
+Age Truncation,Recruitment,1,Group1
+Allocation Price & Availability,Cost of Fishing,1,PineIsl
+Allocation Price & Availability,Grouper Landings,1,PineIsl
+Allocation Price & Availability,Snapper Population,1,PineIsl
+Bad weather,Season length (recreation),1,PanamaCity
+Bait abundance,Costs,1,PanamaCity
+Bait abundance,Snapper/Grouper Population,1,PanamaCity
+Boats From Other Areas,Fishing Pressure,1,PineIsl
+Boats From Other Areas,Grouper Population,1,PineIsl
+Charter Demand,Revenue,1,PineIsl
+Coastal Dev,Estuarine Habitat,1,StPete
+Coastal Dev,Fishing Pressure,1,StPete
+Coastal Dev,Freshwater Input,1,StPete
+Coastal Dev,Tourism,1,StPete
+Cold Kills Water Temp,Gray Snapper Juvenile Growth,1,Group1
+Common sense regulations,Compliance rate,1,PanamaCity
+Common sense regulations,Enforcement level,1,PanamaCity
+Common sense regulations,Fishing mortality,1,PanamaCity
+Common sense regulations,Price of allocation,1,PanamaCity
+Common sense regulations,Season length (recreation),1,PanamaCity
+Common sense regulations,Severity of penalty,1,PanamaCity
+Common sense regulations,Shark harvest,1,PanamaCity
+Competitive Interactions,Snappers and Groupers,1,Group1
+Compliance and Enforcement,Regulations,1,Madeira
+Compliance rate,Recreational quota overage,1,PanamaCity
+Coral Habitat Quality,Juvenile Mortality,1,PineIsl
+Cost of Fishing,Revenue,1,PineIsl
+Council process bias level,Common sense regulations,1,PanamaCity
+Cultural Value Angler Prefernce,Rec and Com Fishing,1,Group1
+Currents,Larval Dispersal,1,Group1
+Currents,MS River Outflow Nutrients,1,Group1
+Currents,Red Tide,2,PineIsl; StPete
+Currents,Strong year class recruit,1,StPete
+Currents,Thermocline,1,PineIsl
+Currents,Water Quality,2,Group1; Madeira
+Currents,Water Temp,1,Group1
+Currents,Water Temperature,1,Madeira
+Customer Satisfaction,Charter Demand,1,PineIsl
+Customer Satisfaction,Tourism,1,PineIsl
+Data,Regulations,1,Madeira
+Data availability (recreational),Recreational quota overage,1,PanamaCity
+Data timelines,Common sense regulations,1,PanamaCity
+Daylight Hours,Migration Pattern,1,Madeira
+Development,Estuary Health,1,Madeira
+Discard Mortality,Fishing Efficiency,1,PineIsl
+Discard mortality,Snapper/Grouper Population,1,PanamaCity
+Distance to Fishing Grounds,Fuel Costs,1,PineIsl
+Dolphin behavior,Discard mortality,1,PanamaCity
+Domestic Price,Local Consumption,1,PineIsl
+Domestic Price,Revenue,1,PineIsl
+Economy,Fishing Participation,1,Madeira
+Economy,Fuel Costs,1,Group1
+Economy,Fuel Price,1,Madeira
+Economy,Market Price,1,Group1
+Economy,Rec and Com Fishing,1,Group1
+Egg Quality,Recruitment,1,Group1
+Enforcement level,Compliance rate,1,PanamaCity
+Equality of representation,Council process bias level,1,PanamaCity
+Estuarine Habitat,Juvenile Gag,1,StPete
+Estuarine Habitat,Prey Availability,1,StPete
+Estuary Health,Forage Fish and Crustaceans,1,Madeira
+Estuary Health,Water Quality,1,Madeira
+Everglades,Water Quality,1,Madeira
+Exit fishery or part time fishing,Community Impacts,1,PineIsl
+F,Snapper/ Grouper Pop,1,StPete
+Fish Dist,Reproductive Output,1,StPete
+Fishing During Spawning,Grouper Population,1,PineIsl
+Fishing Efficiency,Fishing Participation,1,Madeira
+Fishing Efficiency,Grouper Landings,1,PineIsl
+Fishing Effort,Age Truncation,1,Group1
+Fishing Effort,Discard Mortality,1,Group1
+Fishing Effort,Snapper & Grouper,1,Madeira
+Fishing mortality,Snapper/Grouper Population,1,PanamaCity
+Fishing Participation,Fishing Effort,1,Madeira
+Fishing Pressure,Grouper Population,1,PineIsl
+Fishing Pressure,Juvanescence,1,StPete
+Fishing Pressure,Snapper/ Grouper Pop,1,StPete
+Fixed Costs,Cost of Fishing,1,PineIsl
+Forage Fish and Crustaceans,Lionfish,1,Madeira
+Forage Fish and Crustaceans,Red Snapper,1,Madeira
+Forage Fish and Crustaceans,Snapper & Grouper,1,Madeira
+Freshwater Input,Nearshore Temp,1,StPete
+Freshwater Input,Pollution,1,StPete
+Freshwater Input,Red Tide,1,StPete
+Fuel Costs,Cost of Fishing,1,PineIsl
+Fuel Costs,Fishing Effort,1,Group1
+Fuel Costs,Market Price,1,Group1
+Fuel Costs,Num Rec Anglers (Unknown),1,PineIsl
+Fuel Price,Fishing Effort,1,Madeira
+Fuel Price,Fishing Pressure,1,StPete
+Funding Data Collection,Managment,1,Group1
+FW Pulses MS River,Bait abundance,1,PanamaCity
+Gary Water Discharge Sewage,Lake OK Discharge,1,PineIsl
+Gary Water Discharge Sewage,Water Quality,1,PineIsl
+Gear loss,Costs,1,PanamaCity
+Goliath Grouper,Coral Habitat Quality,1,PineIsl
+Goliath Grouper,Juvenile Mortality,1,PineIsl
+Goverment Regulation,Allocation Price & Availability,1,PineIsl
+Goverment Regulation,Fishing During Spawning,1,PineIsl
+Goverment Regulation,Goliath Grouper,1,PineIsl
+Goverment Regulation,Net Mesh Size,1,PineIsl
+Goverment Regulation,Regulatory Complexity,1,PineIsl
+Goverment Regulation,Shark Populaiton,1,PineIsl
+Gray Snapper Juvenile Growth,Adult and Juvenile Mortality,1,Group1
+Green Algea,Water Quality,1,PineIsl
+Grouper Landings,Revenue,1,PineIsl
+Grouper Population,Grouper Landings,1,PineIsl
+Grouper Population,Invasive Spp. Lionfish,1,PineIsl
+Grouper Population,Rec Landings (Unknown),1,PineIsl
+Growth,Adult and Juvenile Mortality,1,Group1
+Growth,Egg Quality,1,Group1
+Growth,Population Size,1,Group1
+Growth,Snapper/ Grouper Pop,1,StPete
+Habitat,Adult and Juvenile Mortality,1,Group1
+Habitat,Adult Distribution,1,Group1
+Habitat Condition,Forage Fish and Crustaceans,1,Madeira
+Health Issues,Community Impacts,1,PineIsl
+Health Issues,Negative Publicity,1,PineIsl
+Hook size,Turtle bycatch,1,PanamaCity
+Human Population,Fishing Participation,1,Madeira
+Human Population,Water Quality,2,Madeira; PineIsl
+Hurricane Irma,Lake OK Discharge,1,PineIsl
+Hurricanes,Fish Dist,1,StPete
+Hurricanes,Fishing Efficiency,1,Madeira
+Hurricanes,Fishing Pressure,1,StPete
+Hurricanes,Fuel Price,1,Madeira
+Hurricanes,Recruitment,1,Madeira
+Hurricanes,Red Tide,1,Madeira
+Hurricanes,Tourism Social Media,1,Madeira
+IFQ Permit Costs,Fishing Participation,1,Madeira
+Import Price,Local Consumption,1,PineIsl
+Imports,Market Price,2,Group1; StPete
+Invasive Spp. Lionfish,Grouper Population,1,PineIsl
+Invasive Spp. Lionfish,Juvenile Mortality,1,PineIsl
+Juvanescence,Growth,1,StPete
+Juvanescence,Reproductive Output,1,StPete
+Juvenile gag,Gray Snapper Juvenile Growth,1,Group1
+Juvenile Gag,Strong year class recruit,1,StPete
+Juvenile Mortality,Grouper Population,1,PineIsl
+Juvenile Mortality,Nursery/Estuary,1,PineIsl
+Lake OK Discharge,Green Algea,1,PineIsl
+Lake OK Discharge,Pestacides Pollutants,1,PineIsl
+Lake OK Discharge,Red Tide,1,PineIsl
+Larval Dispersal,Recruitment,1,Group1
+Lionfish,Bait abundance,1,PanamaCity
+Lionfish,Forage Fish and Crustaceans,1,Madeira
+Lionfish,Habitat Condition,1,Madeira
+Lionfish,Snapper & Grouper,1,Madeira
+Lionfish,Snapper/Grouper Population,1,PanamaCity
+Local Consumption,Health Issues,1,PineIsl
+Local supply,Market demand,1,PanamaCity
+Location of Fishing,Fishing Effort,1,Madeira
+Loop current,Currents,1,Madeira
+Loop current,Water Temperature,1,Madeira
+Loop Current Intrusion,Red Tide,1,Group1
+Loop Current Intrusion,Water Temp,1,Group1
+M (0.2),Snapper/ Grouper Pop,1,StPete
+Managment,Discard Mortality,1,Group1
+Managment,Rec and Com Fishing,1,Group1
+Market demand,Price of fish,1,PanamaCity
+Market Price,Discard Mortality,1,Group1
+Market Price,Fishing Effort,1,Group1
+Market Price,Fishing Pressure,1,StPete
+Mating Behavior,Reproductive Output,1,StPete
+Migration Pattern,Vulnerability to Fishing,1,Madeira
+Mortality of Adults,Grouper Population,1,PineIsl
+MS River Outflow Nutrients,Primary Produciton,1,Group1
+Mullet,Grouper Population,1,PineIsl
+Nearshore Restoration of Clams,Water Quality,1,PineIsl
+Nearshore Temp,Red Tide,1,StPete
+Negative Publicity,Real Estate Value and Sales,1,PineIsl
+Negative Publicity,Rec Fishing Opportunities,1,PineIsl
+Negative Publicity,Tourism,1,PineIsl
+Net Mesh Size,Mullet,1,PineIsl
+Nitrogen Removal by Oysters,Water Quality,1,PineIsl
+No Financial Support,Exit fishery or part time fishing,1,PineIsl
+Num Rec Anglers (Unknown),Rec Landings (Unknown),1,PineIsl
+Nursery/Estuary,Grouper Population,1,PineIsl
+Odors and Fumes,Real Estate Value and Sales,1,PineIsl
+Offshore Temperature,Adult Habitat,1,StPete
+Offshore Winds,Red Tide,1,PineIsl
+Oil Spills,Adult Habitat,1,StPete
+Oil Spills,Fish Dist,1,StPete
+Oil Spills,Fishing Pressure,1,StPete
+Oil Spills,Fuel Costs,1,Group1
+Oil Spills,Prey Availability,1,StPete
+Oil Spills,Water Quality,1,Group1
+Opportunity to give input,Council process bias level,1,PanamaCity
+Oyster Reefs,Nitrogen Removal by Oysters,1,PineIsl
+Oyster Reefs,Water Quality,1,PineIsl
+Permits/revenue for management,Enforcement level,1,PanamaCity
+Pestacides Pollutants,Water Quality,1,PineIsl
+Politics,Economy,1,Group1
+Politics,Funding Data Collection,1,Group1
+Politics,Managment,1,Group1
+Pollutants,Water Quality,1,Madeira
+Pollution,Red Tide,1,StPete
+Pollution (red tide),Bait abundance,1,PanamaCity
+Population Size,Discard Mortality,1,Group1
+Population Size,Fishing Effort,1,Group1
+Predators (Sharks/Goliath),Fishing Efficiency,1,Madeira
+Predators (Sharks/Goliath),Lionfish,1,Madeira
+Predators (Sharks/Goliath),Red Snapper,1,Madeira
+Predators (Sharks/Goliath),Snapper & Grouper,1,Madeira
+Predators Sharks and Lionfish1,Adult and Juvenile Mortality,1,Group1
+Predators Sharks and Lionfish1,Adult Distribution,1,Group1
+Predators Sharks and Lionfish1,Prey Avail Pinfish Abundance,1,Group1
+Predators Sharks and Lionfish2,Adult and Juvenile Mortality,1,Group1
+Predators Sharks and Lionfish2,Adult Distribution,1,Group1
+Predators Sharks and Lionfish2,Prey Avail Pinfish Abundance,1,Group1
+Prey Avail Pinfish Abundance,Adult and Juvenile Mortality,1,Group1
+Prey Avail Pinfish Abundance,Egg Quality,1,Group1
+Prey Avail Pinfish Abundance,Growth,1,Group1
+Prey Availability,Growth,1,StPete
+Prey Availability,Snapper/ Grouper Pop,1,StPete
+Price of fish,Price of allocation,1,PanamaCity
+Primary Produciton,Prey Avail Pinfish Abundance,1,Group1
+Real Estate Value and Sales,Rec Fishing Opportunities,1,PineIsl
+Rec and Com Fishing,Fishing Effort,1,Group1
+Rec and Com Fishing,Funding Data Collection,1,Group1
+Rec Fishing Opportunities,Community Impacts,1,PineIsl
+Rec Landings (Unknown),Grouper Landings,1,PineIsl
+Recreational quota overage,Fishing mortality,1,PanamaCity
+Recruitment,Population Size,1,Group1
+Recruitment,Snapper & Grouper,1,Madeira
+Red Snapper Juveniles,Adult and Juvenile Mortality,1,Group1
+Red Tide,Adult and Juvenile Mortality,1,Group1
+Red Tide,Adult Distribution,1,Group1
+Red Tide,Fish Dist,1,StPete
+Red Tide,Fishing Effort,1,Group1
+Red Tide,Habitat Condition,1,Madeira
+Red Tide,Location of Fishing,1,Madeira
+Red Tide,M (0.2),1,StPete
+Red Tide,Predators Sharks and Lionfish1,1,Group1
+Red Tide,Predators Sharks and Lionfish2,1,Group1
+Red Tide,Prey Avail Pinfish Abundance,1,Group1
+Red Tide,Regulations,1,Madeira
+Red Tide,Snapper & Grouper,1,Madeira
+Red Tide,Snook and Red Fish,1,Madeira
+Red Tide,Tourism Social Media,1,Madeira
+Red Tide,Water Quality,2,Group1; PineIsl
+Regulations,Fishing Efficiency,1,Madeira
+Regulations,Fishing Participation,1,Madeira
+Regulations,IFQ Permit Costs,1,Madeira
+Regulatory Complexity,Fishing Efficiency,1,PineIsl
+Reproductive Output,Strong year class recruit,1,StPete
+Revenue,Exit fishery or part time fishing,1,PineIsl
+Sahara Dust,Red Tide,1,PineIsl
+Season length (recreation),Discard mortality,1,PanamaCity
+Season length (recreation),Local culture/heritage (fishing during weekends),1,PanamaCity
+Season length (recreation),Tourism,1,PanamaCity
+"Seasons, Areas Licenses",Fishing Pressure,1,StPete
+"Seasons, Areas Licenses",Tourism,1,StPete
+Severity of penalty,Compliance rate,1,PanamaCity
+Sewage,Water Quality,1,Madeira
+Shark fecundity,Shark Population Abundance,1,PanamaCity
+Shark harvest,Hook size,1,PanamaCity
+Shark harvest,Turtle bycatch,1,PanamaCity
+Shark Populaiton,Fishing Efficiency,1,PineIsl
+Shark Population Abundance,Gear loss,1,PanamaCity
+Shark Population Abundance,Shark bites,1,PanamaCity
+Shark Population Abundance,Shark fecundity,1,PanamaCity
+Shark Population Abundance,Snapper/Grouper Population,1,PanamaCity
+Shrimp Bycatch,Red Snapper Juveniles,1,Group1
+Shrimping (trawling),Adult Habitat,1,StPete
+Shrimping (trawling),F,1,StPete
+Snapper & Grouper,Fishing Participation,1,Madeira
+Snapper & Grouper,Regulations,1,Madeira
+Snapper & Grouper,Target Species,1,Madeira
+Snapper Population,Discard Mortality,1,PineIsl
+Snapper Population,Fishing Efficiency,1,PineIsl
+Snapper/Grouper Population,Price of allocation,1,PanamaCity
+Snapper/Grouper Population,Shark fecundity,1,PanamaCity
+Snook and Red Fish,Target Species,1,Madeira
+Strong year class recruit,Snapper/ Grouper Pop,1,StPete
+Target Species,Fishing Effort,1,Madeira
+Technology,Data availability (recreational),1,PanamaCity
+Technology,Fishing Efficiency,1,Madeira
+Technology,Fishing Participation,1,Madeira
+Technology,Location of Fishing,1,Madeira
+Technology,Vulnerability to Fishing,1,Madeira
+Thermocline,Red Tide,1,PineIsl
+Tourism,Charter Demand,1,PineIsl
+Tourism,Coastal Dev,1,StPete
+Tourism,Fishing Pressure,1,StPete
+Tourism,Local Consumption,1,PineIsl
+Tourism Social Media,Fishing Participation,1,Madeira
+Upwelling (low DO),Fish Dist,1,StPete
+Upwelling (low DO),Prey Availability,1,StPete
+Vulnerability to Fishing,Fishing Effort,1,Madeira
+Water Quality,Abundance of Bait,1,PineIsl
+Water Quality,Adult and Juvenile Mortality,1,Group1
+Water Quality,African Pompano,1,PineIsl
+Water Quality,Aquaculture,1,PineIsl
+Water Quality,Bay Scallops,1,PineIsl
+Water Quality,Blue Crab,1,PineIsl
+Water Quality,Boats From Other Areas,1,PineIsl
+Water Quality,Clams aquaculture,1,PineIsl
+Water Quality,Coral Habitat Quality,1,PineIsl
+Water Quality,Disruption of Migration,1,PineIsl
+Water Quality,Distance to Fishing Grounds,1,PineIsl
+Water Quality,Fishing Effort,1,Madeira
+Water Quality,Grouper Population,1,PineIsl
+Water Quality,Habitat,1,Group1
+Water Quality,Health Issues Infection,1,PineIsl
+Water Quality,Juvenile Mortality,1,PineIsl
+Water Quality,Mackerel,1,PineIsl
+Water Quality,Mortality of Adults,1,PineIsl
+Water Quality,Red Tide,2,Group1; Madeira
+Water Quality,Shrimp,1,PineIsl
+Water Quality,Stone Crab,1,PineIsl
+Water Quality,Tourism,1,PineIsl
+Water Quality,Triggerfish,1,PineIsl
+Water Quality,Trout,1,PineIsl
+Water Temp,Adult Distribution,1,Group1
+Water Temp,Currents,1,Group1
+Water Temp,Discard Mortality,1,Group1
+Water Temp,Loop Current Intrusion,1,Group1
+Water Temp,Red Tide,1,Group1
+Water Temp,Water Quality,1,Group1
+Water Temperature,Forage Fish and Crustaceans,1,Madeira
+Water Temperature,Migration Pattern,1,Madeira
+Water Temperature,Water Quality,1,Madeira
+Watershed Management,Water Quality,1,PineIsl
+Weather,Fishing Pressure,1,StPete
+Weather,Tourism,1,StPete
+Winter Water Temps,Red Tide,1,PineIsl
