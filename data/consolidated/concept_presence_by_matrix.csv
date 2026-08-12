@@ -1,0 +1,189 @@
+concept,matrix_count,matrices,Group1,Madeira,PanamaCity,PineIsl,StPete
+Abundance of Bait,1,PineIsl,0,0,0,1,0
+Accuracy of recreational harvest data,1,PanamaCity,0,0,1,0,0
+Adult and Juvenile Mortality,1,Group1,1,0,0,0,0
+Adult Distribution,1,Group1,1,0,0,0,0
+Adult Habitat,1,StPete,0,0,0,0,1
+African Pompano,1,PineIsl,0,0,0,1,0
+Age Truncation,1,Group1,1,0,0,0,0
+Allocation Price & Availability,1,PineIsl,0,0,0,1,0
+Aquaculture,1,PineIsl,0,0,0,1,0
+Bad weather,1,PanamaCity,0,0,1,0,0
+Bait abundance,1,PanamaCity,0,0,1,0,0
+Bay Scallops,1,PineIsl,0,0,0,1,0
+Blue Crab,1,PineIsl,0,0,0,1,0
+Boats From Other Areas,1,PineIsl,0,0,0,1,0
+Charter Demand,1,PineIsl,0,0,0,1,0
+Clams aquaculture,1,PineIsl,0,0,0,1,0
+Coastal Dev,1,StPete,0,0,0,0,1
+Cold Kills Water Temp,1,Group1,1,0,0,0,0
+Common sense regulations,1,PanamaCity,0,0,1,0,0
+Community Impacts,1,PineIsl,0,0,0,1,0
+Competitive Interactions,1,Group1,1,0,0,0,0
+Compliance and Enforcement,1,Madeira,0,1,0,0,0
+Compliance rate,1,PanamaCity,0,0,1,0,0
+Coral Habitat Quality,1,PineIsl,0,0,0,1,0
+Cost of Fishing,1,PineIsl,0,0,0,1,0
+Costs,1,PanamaCity,0,0,1,0,0
+Council process bias level,1,PanamaCity,0,0,1,0,0
+Cultural Value Angler Prefernce,1,Group1,1,0,0,0,0
+Currents,4,Group1; Madeira; PineIsl; StPete,1,1,0,1,1
+Customer Satisfaction,1,PineIsl,0,0,0,1,0
+Data,1,Madeira,0,1,0,0,0
+Data availability (recreational),1,PanamaCity,0,0,1,0,0
+Data timelines,1,PanamaCity,0,0,1,0,0
+Daylight Hours,1,Madeira,0,1,0,0,0
+Development,1,Madeira,0,1,0,0,0
+Discard Mortality,2,Group1; PineIsl,1,0,0,1,0
+Discard mortality,1,PanamaCity,0,0,1,0,0
+Disease,1,Group1,1,0,0,0,0
+Disruption of Migration,1,PineIsl,0,0,0,1,0
+Distance to Fishing Grounds,1,PineIsl,0,0,0,1,0
+Dolphin behavior,1,PanamaCity,0,0,1,0,0
+Domestic Price,1,PineIsl,0,0,0,1,0
+Economy,2,Group1; Madeira,1,1,0,0,0
+Egg Quality,1,Group1,1,0,0,0,0
+Enforcement level,1,PanamaCity,0,0,1,0,0
+Equality of representation,1,PanamaCity,0,0,1,0,0
+Estuarine Habitat,1,StPete,0,0,0,0,1
+Estuary Health,1,Madeira,0,1,0,0,0
+Everglades,1,Madeira,0,1,0,0,0
+Exit fishery or part time fishing,1,PineIsl,0,0,0,1,0
+F,1,StPete,0,0,0,0,1
+Fish Dist,1,StPete,0,0,0,0,1
+Fishing During Spawning,1,PineIsl,0,0,0,1,0
+Fishing Efficiency,2,Madeira; PineIsl,0,1,0,1,0
+Fishing Effort,2,Group1; Madeira,1,1,0,0,0
+Fishing mortality,1,PanamaCity,0,0,1,0,0
+Fishing Participation,1,Madeira,0,1,0,0,0
+Fishing Pressure,2,PineIsl; StPete,0,0,0,1,1
+Fixed Costs,1,PineIsl,0,0,0,1,0
+Forage Fish and Crustaceans,1,Madeira,0,1,0,0,0
+Freshwater Input,1,StPete,0,0,0,0,1
+Fuel Costs,2,Group1; PineIsl,1,0,0,1,0
+Fuel Price,2,Madeira; StPete,0,1,0,0,1
+Funding Data Collection,1,Group1,1,0,0,0,0
+FW Pulses MS River,1,PanamaCity,0,0,1,0,0
+Gary Water Discharge Sewage,1,PineIsl,0,0,0,1,0
+Gear loss,1,PanamaCity,0,0,1,0,0
+Goliath Grouper,1,PineIsl,0,0,0,1,0
+Goverment Regulation,1,PineIsl,0,0,0,1,0
+Gray Snapper Juvenile Growth,1,Group1,1,0,0,0,0
+Green Algea,1,PineIsl,0,0,0,1,0
+Grouper Landings,1,PineIsl,0,0,0,1,0
+Grouper Population,1,PineIsl,0,0,0,1,0
+Growth,2,Group1; StPete,1,0,0,0,1
+Habitat,1,Group1,1,0,0,0,0
+Habitat Condition,1,Madeira,0,1,0,0,0
+Health Issues,1,PineIsl,0,0,0,1,0
+Health Issues Infection,1,PineIsl,0,0,0,1,0
+Hook size,1,PanamaCity,0,0,1,0,0
+Human Population,2,Madeira; PineIsl,0,1,0,1,0
+Hurricane Irma,1,PineIsl,0,0,0,1,0
+Hurricanes,2,Madeira; StPete,0,1,0,0,1
+IFQ Permit Costs,1,Madeira,0,1,0,0,0
+Import Price,1,PineIsl,0,0,0,1,0
+Imports,2,Group1; StPete,1,0,0,0,1
+Invasive Spp. Lionfish,1,PineIsl,0,0,0,1,0
+Juvanescence,1,StPete,0,0,0,0,1
+Juvenile gag,1,Group1,1,0,0,0,0
+Juvenile Gag,1,StPete,0,0,0,0,1
+Juvenile Mortality,1,PineIsl,0,0,0,1,0
+Lake OK Discharge,1,PineIsl,0,0,0,1,0
+Larval Dispersal,1,Group1,1,0,0,0,0
+Lionfish,2,Madeira; PanamaCity,0,1,1,0,0
+Local Consumption,1,PineIsl,0,0,0,1,0
+Local culture/heritage (fishing during weekends),1,PanamaCity,0,0,1,0,0
+Local supply,1,PanamaCity,0,0,1,0,0
+Location of Fishing,1,Madeira,0,1,0,0,0
+Loop current,1,Madeira,0,1,0,0,0
+Loop Current Intrusion,1,Group1,1,0,0,0,0
+M (0.2),1,StPete,0,0,0,0,1
+Mackerel,1,PineIsl,0,0,0,1,0
+Managment,1,Group1,1,0,0,0,0
+Market demand,1,PanamaCity,0,0,1,0,0
+Market Price,2,Group1; StPete,1,0,0,0,1
+Mating Behavior,1,StPete,0,0,0,0,1
+Migration Pattern,1,Madeira,0,1,0,0,0
+Mortality of Adults,1,PineIsl,0,0,0,1,0
+MS River Outflow Nutrients,1,Group1,1,0,0,0,0
+Mullet,1,PineIsl,0,0,0,1,0
+Nearshore Restoration of Clams,1,PineIsl,0,0,0,1,0
+Nearshore Temp,1,StPete,0,0,0,0,1
+Negative Publicity,1,PineIsl,0,0,0,1,0
+Net Mesh Size,1,PineIsl,0,0,0,1,0
+Nitrogen Removal by Oysters,1,PineIsl,0,0,0,1,0
+No Financial Support,1,PineIsl,0,0,0,1,0
+Num Rec Anglers (Unknown),1,PineIsl,0,0,0,1,0
+Nursery/Estuary,1,PineIsl,0,0,0,1,0
+Odors and Fumes,1,PineIsl,0,0,0,1,0
+Offshore Temperature,1,StPete,0,0,0,0,1
+Offshore Winds,1,PineIsl,0,0,0,1,0
+Oil Spills,2,Group1; StPete,1,0,0,0,1
+Opportunity to give input,1,PanamaCity,0,0,1,0,0
+Oyster Reefs,1,PineIsl,0,0,0,1,0
+Permits/revenue for management,1,PanamaCity,0,0,1,0,0
+Pestacides Pollutants,1,PineIsl,0,0,0,1,0
+Politics,1,Group1,1,0,0,0,0
+Pollutants,1,Madeira,0,1,0,0,0
+Pollution,1,StPete,0,0,0,0,1
+Pollution (red tide),1,PanamaCity,0,0,1,0,0
+Population Size,1,Group1,1,0,0,0,0
+Predators (Sharks/Goliath),1,Madeira,0,1,0,0,0
+Predators Sharks and Lionfish1,1,Group1,1,0,0,0,0
+Predators Sharks and Lionfish2,1,Group1,1,0,0,0,0
+Prey Avail Pinfish Abundance,1,Group1,1,0,0,0,0
+Prey Availability,1,StPete,0,0,0,0,1
+Price of allocation,1,PanamaCity,0,0,1,0,0
+Price of fish,1,PanamaCity,0,0,1,0,0
+Primary Produciton,1,Group1,1,0,0,0,0
+Real Estate Value and Sales,1,PineIsl,0,0,0,1,0
+Rec and Com Fishing,1,Group1,1,0,0,0,0
+Rec Fishing Opportunities,1,PineIsl,0,0,0,1,0
+Rec Landings (Unknown),1,PineIsl,0,0,0,1,0
+Recreational quota overage,1,PanamaCity,0,0,1,0,0
+Recruitment,2,Group1; Madeira,1,1,0,0,0
+Red Snapper,1,Madeira,0,1,0,0,0
+Red Snapper Juveniles,1,Group1,1,0,0,0,0
+Red Tide,4,Group1; Madeira; PineIsl; StPete,1,1,0,1,1
+Regulations,1,Madeira,0,1,0,0,0
+Regulatory Complexity,1,PineIsl,0,0,0,1,0
+Reproductive Output,1,StPete,0,0,0,0,1
+Revenue,1,PineIsl,0,0,0,1,0
+Sahara Dust,1,PineIsl,0,0,0,1,0
+Season length (recreation),1,PanamaCity,0,0,1,0,0
+"Seasons, Areas Licenses",1,StPete,0,0,0,0,1
+Severity of penalty,1,PanamaCity,0,0,1,0,0
+Sewage,1,Madeira,0,1,0,0,0
+Shark bites,1,PanamaCity,0,0,1,0,0
+Shark fecundity,1,PanamaCity,0,0,1,0,0
+Shark harvest,1,PanamaCity,0,0,1,0,0
+Shark Populaiton,1,PineIsl,0,0,0,1,0
+Shark Population Abundance,1,PanamaCity,0,0,1,0,0
+Shrimp,1,PineIsl,0,0,0,1,0
+Shrimp Bycatch,1,Group1,1,0,0,0,0
+Shrimping (trawling),1,StPete,0,0,0,0,1
+Snapper & Grouper,1,Madeira,0,1,0,0,0
+Snapper Population,1,PineIsl,0,0,0,1,0
+Snapper/ Grouper Pop,1,StPete,0,0,0,0,1
+Snapper/Grouper Population,1,PanamaCity,0,0,1,0,0
+Snappers and Groupers,1,Group1,1,0,0,0,0
+Snook and Red Fish,1,Madeira,0,1,0,0,0
+Stone Crab,1,PineIsl,0,0,0,1,0
+Strong year class recruit,1,StPete,0,0,0,0,1
+Target Species,1,Madeira,0,1,0,0,0
+Technology,2,Madeira; PanamaCity,0,1,1,0,0
+Thermocline,1,PineIsl,0,0,0,1,0
+Tourism,3,PanamaCity; PineIsl; StPete,0,0,1,1,1
+Tourism Social Media,1,Madeira,0,1,0,0,0
+Triggerfish,1,PineIsl,0,0,0,1,0
+Trout,1,PineIsl,0,0,0,1,0
+Turtle bycatch,1,PanamaCity,0,0,1,0,0
+Upwelling (low DO),1,StPete,0,0,0,0,1
+Vulnerability to Fishing,1,Madeira,0,1,0,0,0
+Water Quality,3,Group1; Madeira; PineIsl,1,1,0,1,0
+Water Temp,1,Group1,1,0,0,0,0
+Water Temperature,1,Madeira,0,1,0,0,0
+Watershed Management,1,PineIsl,0,0,0,1,0
+Weather,1,StPete,0,0,0,0,1
+Winter Water Temps,1,PineIsl,0,0,0,1,0

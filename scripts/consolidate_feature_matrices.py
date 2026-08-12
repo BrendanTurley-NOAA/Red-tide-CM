@@ -20,6 +20,7 @@ def load_matrix(path: Path) -> tuple[str, list[str], list[tuple[str, str]]]:
 
     headers = [clean_label(cell) for cell in rows[0][1:] if clean_label(cell)]
     edges: list[tuple[str, str]] = []
+    row_labels: set[str] = set()
 
     for raw_row in rows[1:]:
         if not raw_row:
@@ -28,6 +29,7 @@ def load_matrix(path: Path) -> tuple[str, list[str], list[tuple[str, str]]]:
         source = clean_label(raw_row[0])
         if not source:
             continue
+        row_labels.add(source)
 
         cells = raw_row[1 : len(headers) + 1]
         if len(cells) < len(headers):
@@ -38,7 +40,7 @@ def load_matrix(path: Path) -> tuple[str, list[str], list[tuple[str, str]]]:
                 edges.append((source, target))
 
     matrix_name = path.stem.replace("Matrix.", "", 1)
-    concepts = sorted(set(headers) | {source for source, _ in edges}, key=str.casefold)
+    concepts = sorted(set(headers) | row_labels, key=str.casefold)
     return matrix_name, concepts, edges
 
 
@@ -75,7 +77,7 @@ def main() -> None:
         )
 
     edge_rows: list[list[str]] = []
-    for source, target in sorted(edge_membership, key=lambda item: (item[0][0].casefold(), item[0][1].casefold())):
+    for source, target in sorted(edge_membership, key=lambda item: (item[0].casefold(), item[1].casefold())):
         present_in = edge_membership[(source, target)]
         edge_rows.append([source, target, str(len(present_in)), "; ".join(sorted(present_in))])
 
